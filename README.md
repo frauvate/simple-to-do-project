@@ -1,2 +1,2 @@
 # simple-to-do-project
-icp workshop
+A simple ToDo List project made for Rise-In ICP workshop
